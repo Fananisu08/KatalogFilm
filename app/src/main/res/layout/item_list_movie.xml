@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/posterMovies"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:background="@color/teal_200"
+        android:contentDescription="Poster Film"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/tittleMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tittle"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_toEndOf="@+id/posterMovies"
+        android:layout_marginStart="25dp"/>
+
+    <TextView
+        android:id="@+id/releaseMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tittleMovies"
+        android:text="release date"
+        android:layout_toEndOf="@id/posterMovies"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/descMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/releaseMovies"
+        android:text="Description"
+        android:layout_toEndOf="@id/posterMovies"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="20dp"
+        android:ellipsize="end"
+        android:maxLines="5"/>
+
+</RelativeLayout>

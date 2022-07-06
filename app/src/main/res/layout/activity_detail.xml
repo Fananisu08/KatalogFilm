@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity"
+    android:layout_margin="16dp">
+
+    <ImageView
+        android:id="@+id/detail_poster"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:background="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail_judul"
+        android:layout_toRightOf="@id/detail_poster"
+        android:text="Judul"
+        android:textStyle="bold"
+        android:layout_marginStart="25dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail_release_date"
+        android:layout_toRightOf="@id/detail_poster"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="25dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/label_deskripsi"
+        android:layout_below="@id/detail_poster"
+        android:text="Deskripsi"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail_deskripsi"
+        android:layout_below="@id/label_deskripsi"
+        android:text="Isi Deskripsi"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/label_review"
+        android:text="Review"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/detail_deskripsi"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/detail_review"
+        android:layout_below="@id/label_review"
+        android:text="Isi Review"/>
+
+
+</RelativeLayout>

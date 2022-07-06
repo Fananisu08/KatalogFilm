@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">KatalogFilm</string>
+    <string name="Logo">logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_desc">logo</string>
+
+    <string-array name="mv_titles" translatable="false">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Mary Poppins Returns</item>
+        <item>Robin Hood</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="mv_released">
+        <item>October 5, 2018</item>
+        <item>December 21, 2018</item>
+        <item>April 27, 2018</item>
+        <item>December 13, 2018</item>
+        <item>October 24, 2018</item>
+        <item>December 15, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 13, 2018</item>
+        <item>November 21, 2018</item>
+        <item>September 28, 2018</item>
+    </string-array>
+
+    <string-array name="mv_description">
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half human, half Atlantean brother and true heir to the throne</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment the fate of Earth and existence itself has never been more uncertain</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet finding a way to keep the band together amid the success and excess</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family past, Adonis Creed is up against the challenge of his life</item>
+        <item>In Depression era London, a now grown Jane and Michael Banks, along with Michaels three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives</item>
+        <item>A war hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own</item>
+    </string-array>
+
+    <string-array name="mv_reviews">
+        <item>Very interesting. As soon as I saw the trailer, I wanted to see it. I work in the professional cv services, and through the big traffic there is no time for going to the cinema, so I will wait for the film to appear in good quality on the Internet. But the trailer is exciting. Everything I love: romance, love and music!</item>
+        <item>The story was laughable. The plot holes were immense. The dialogue was atrocious. The special effects were technically competent and pretty but cartoonish and unbelievable. Easily the worst film I have seen in the last year. If it was a bit campy, then it might have succeeded in a kind of sub-Flash-Gordon fashion</item>
+        <item>Amazing. Visually stunning. So much going on, but somehow also clear and easy to understand. A little flabby in the middle third, but given the huge cast and story to cover it is very understandable. The highlight was the parings of characters from different stories and their interactions. If you are not a Marvel fan this film will not convert you, but if you have liked any of the previous films you will like this too</item>
+        <item>Kind of a The Happening meets A Quiet Place, but better than the latter and way better than the former. Maybe I did not get eeeeeeverything I wanted out of Bird Box but I am still on board. I know that I opened this up by saying the movie is very much like two other movies, but what I liked most about is honestly that it is unlike 99.99% of the horror genre, and that little variation was just what I needed today</item>
+        <item>If Bohemian Rhapsody is so great, why was the best part of it Tom Hollander saying a single word? Do not get me wrong, Rami Malek deserves props for the role, that much is true (less perhaps than he is been getting, but still, props). But beyond that, Bohemian Rhapsody is bland, choppy, arguably even offensive. There might be some value in one of those sing-along type deals if you can get enough Queen fans together for one, but I will never know, because I have no interest in re-watching this</item>
+        <item>Strong contender for best live-action Transformers movie ever made, but Christ, what a low fucking bar that is. The fact it is not the clear and absolute winner is a devastating criticism</item>
+        <item>That is the movie I wanted to see badly for a long time I watched its first part that was too awesome and creed 2 is marvelous I had to do my college homework but I skipped that just to watch creed 2 the training part and the last fight I cannot describe in words what I feels after watched</item>
+        <item>The original Mary Poppins was one of my favorite movies when I was a kid and it kind of still is. Thus I was indeed a bit worried when I sat down to watch this one with the kids yesterday. After all there is really so many ways a incompetent writer could have screwed this one up. Especially one with an agenda. Luckily this was not the case and I have to say that I quite liked this movie. Disney actually managed to keep the ambiance of the original movie and it actually felt like a Disney movie from the good old days</item>
+        <item>I just feel kinda bad for everyone involved. It was clear that whatever was supposed to happen, was tried at. Very hard. But it did not work</item>
+        <item>Venom is a great comic adaptation. I really like what they did with the character and the story. I thought the film was done well. The special effects are pretty good. I thought the characters were cast well, and overall I just enjoyed it. The film is pretty dark and violent despite the PG-13 rating. It did not have a lot of blood, but there was a bit here and there. Characters are mostly tossed around and beaten, but a lot of them are not shown dead. That being said, some characters are still killed on screen. People are experimented on. A few people are slashed and stabbed</item>
+    </string-array>
+
+    <array name="mv_poster">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_infinity_war</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_marry_poppins</item>
+        <item>@drawable/poster_robin_hood</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+</resources>
